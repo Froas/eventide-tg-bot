@@ -1,4 +1,4 @@
-# Eventide: Eclipse - Telegram RPG Bot
+# Eventide: Eclipse | Comlog - Telegram RPG Bot 
 
 A sophisticated Telegram bot designed for running tabletop RPG sessions, specifically built for the "Eventide: Eclipse" campaign. This bot serves as a digital game master assistant, managing player data, lore, missions, and in-character communications.
 
