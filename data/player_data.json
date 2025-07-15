@@ -1,0 +1,27 @@
+[
+  {
+    "telegram_user_id": 45135646,
+    "character_name": "Новый Игрок Froas",
+    "character_role": "Не определен",
+    "character_bio": "Нет информации.",
+    "status": "Active",
+    "current_mission_id": "default_mission",
+    "is_active": true,
+    "secret_mission_id": "sm_elli_override",
+    "ver": "1.1.1",
+    "character_image_url": "./assets/character/profile/img.png",
+    "character_image_file_id": "AgACAgIAAxkDAAIBPGg5lc80gpUv0Hbh8a7QbmXmvByQAAJd9TEb_WTRSfqsqfUIWvksAQADAgADeAADNgQ"
+  },
+  {
+    "telegram_user_id": 187821236,
+    "character_name": "New Player Bach",
+    "character_role": "Undefined",
+    "character_bio": "No information.",
+    "character_image_url": null,
+    "character_image_file_id": null,
+    "is_active": true,
+    "status": "Arrested",
+    "secret_mission_id": null,
+    "current_mission_id": "default_mission"
+  }
+]
